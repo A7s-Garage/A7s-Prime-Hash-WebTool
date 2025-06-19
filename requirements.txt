@@ -1,0 +1,6 @@
+streamlit
+pycryptodome
+cryptography
+pillow
+imagehash
+pycipher
